@@ -31,7 +31,7 @@ The __*Metabolites*__ sheet contains the meta-data related to the metabolite ann
 <span class='textc'>**c. Helpful columns**</span> columns C-H are an example of additional metabolite information. If possible, cohorts should include as much metabolite information as possible to help in harmonization, especially mass charge, retention time, and HMDB ID.
  
 </div>
-<a href="/Tutorial Image 1.PNG" target="_blank"><img src="/Tutorial Image 1.png" style="width: 60%"></a>
+<a href="static/input_metabolites.PNG" target="_blank"><img src="static/input_metabolites.png" style="width: 60%"></a>
 
 
 ### Sheet 2: Subject Metabolites
@@ -67,7 +67,7 @@ The __*SubjectData*__ sheet contains the subject-level data where columns are da
 <span class='textd'>**d. Cells**</span> contain subject-level covariate values.
  
 </div>
-<a href="static/input_3subjectdata.png" target="_blank"><img src="static/input_3subjectdata.png" style="width: 60%"></a>
+<a href="static/input_subjectdata.png" target="_blank"><img src="static/input_subjectdata.png" style="width: 60%"></a>
 
 
 
@@ -89,7 +89,7 @@ The __*VarMap*__ sheet contains the coding scheme for the covariates in your ana
  
 <span class='textf'>**f. COHORTNOTES**</span> gives additional info for some variables. 
 </div>
-<a href="static/input_4varmapv2.PNG" target="_blank"><img src="static/input_varmap3.PNG" style="width: 60%"></a>
+<a href="static/input_varmap.PNG" target="_blank"><img src="static/input_varmap.PNG" style="width: 60%"></a>
 
 
 ### Sheet 5: Models {#inputmodels}
@@ -115,7 +115,7 @@ This worksheet specifies the models to run. In this example, Model “2.1” is 
  
  </div>
 
-<a href="static/input_modelspecification.png"><img src="static/input_modelspecification.png" style="width: 60%"></a>
+<a href="static/input_models.png"><img src="static/input_models.png" style="width: 60%"></a>
 
 
 ## 1.2 Data and Model Integrity 
