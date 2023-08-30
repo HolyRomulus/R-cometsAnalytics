@@ -63,7 +63,7 @@ exmetabdata <- RcometsAnalytics::readCOMETSinput(csvfile)
 ```
 
 To plot some the distribution of variances for each metabolite:
-```{r, eval=T}
+```{r, eval=T,suppressWarnings=TRUE}
 RcometsAnalytics::plotVar(exmetabdata,titlesize=12)
 ```
 
