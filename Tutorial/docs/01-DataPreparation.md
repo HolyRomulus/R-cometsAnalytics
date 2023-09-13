@@ -1,13 +1,3 @@
-
-```{r setup, include=FALSE}
-#make sure to install th etufte package first
-#install.packages("tufte")
-library(tufte)
-# invalidate cache when the tufte version changes
-knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
-options(htmltools.dir.version = FALSE)
-```
-
 # __Chapter 1:__ Data Preparation{#quickstart}
 
 Each cohort is required to assemble their data into an input file the standard Excel format from  a variety of sources (xls, stata, sas, or r). The input file is used for harmonization and analyses. This chapter guides you through the features of COMETS Analytics using the sample file to provide an introduction to the flow of analyses. 

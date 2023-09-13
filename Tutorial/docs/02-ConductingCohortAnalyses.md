@@ -3,14 +3,6 @@ output:
   pdf_document: default
   html_document: default
 ---
-```{r setup, include=FALSE,echo=FALSE,cache=FALSE}
-#make sure to install th etufte package first
-#install.packages("tufte")
-library(tufte)
-# invalidate cache when the tufte version changes
-knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
-options(htmltools.dir.version = FALSE)
-```
 
 
 # __Chapter 2:__ Conducting Cohort Data Analyses {#cohort}
@@ -175,4 +167,3 @@ Below an example with age (exposure) and metabolites (outcome) as run in the *In
 
 
 <span class='textintro'>For details on outputs from other models, see the output section of each method under Chapter \@ref(manual) [Manual]. </span>
-

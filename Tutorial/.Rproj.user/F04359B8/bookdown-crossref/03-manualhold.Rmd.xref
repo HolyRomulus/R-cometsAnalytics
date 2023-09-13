@@ -1,0 +1,17 @@
+h1:manual Manual
+h2:registration-and-account-set-up Registration and Account Set-up
+h2:input-file Input File
+h3:metabolites Metabolites
+h3:subjectmetabolites Subject Metabolites
+h3:subjectdata Subject Data
+h3:varmap Variable mapping
+h3:models Models
+h2:interactive-mode Interactive mode
+h3:metabolite-tagging Metabolite Tagging
+fig:harmonize Output harmonization
+h2:batch-mode Batch Mode
+h3:correlation-example-batch-mode-smoking-statified Correlation example: batch mode 
+h2:super-batch-mode Super Batch Mode
+h3:descriptive-statistics Descriptive statistics
+h3:metabolite-correlations Metabolite correlations
+
