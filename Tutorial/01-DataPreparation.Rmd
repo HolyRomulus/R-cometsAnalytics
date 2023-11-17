@@ -92,7 +92,7 @@ The __*VarMap*__ sheet contains the coding scheme for the covariates in your ana
  
 <span class='textf'>**f. COHORTNOTES**</span> gives additional info for some variables. 
 </div>
-<a href="static/input_varmap.PNG" target="_blank"><img src="static/input_varmap.PNG" style="width: 60%"></a>
+<a href="static/input_varmap.png" target="_blank"><img src="static/input_varmap.png" style="width: 60%"></a>
 
 
 ### Sheet 5: Models {#inputmodels}
